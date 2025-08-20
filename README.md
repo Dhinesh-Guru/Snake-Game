@@ -16,8 +16,8 @@ The player controls a snake to eat food, grow longer, and avoid colliding with w
 ## 📷 Screenshot
 
 <p float="left">
-  <img src="./Snake-Game/assets/Game_window.png" alt="Game Window" width="400"/>
-  <img src="./Snake-Game/assets/Game_over.png" alt="Game Over Screen" width="400"/>
+  <img src="./assets/Game_window.png" alt="Game Window" width="400"/>
+  <img src="./assets/Game_over.png" alt="Game Over Screen" width="400"/>
 </p>
 
 ---
